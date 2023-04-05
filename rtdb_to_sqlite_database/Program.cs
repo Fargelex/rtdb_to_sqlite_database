@@ -10,6 +10,8 @@ namespace rtdb_to_sqlite_database
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("start");
+            Console.ReadKey();
         }
     }
 }
